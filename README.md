@@ -2,7 +2,6 @@
 
 - 🔭 Eu atualmente estou trabalhando na construção de uma secretaria escolar inteiramente digital.
 - 🌱 Pra isso eu atualemente estou aprendendo **HTML, CSS, JavaScript, JQuery, NodeJS, React, MySQL, PHP**
-- 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Comecei aprender programação porque fazer no excel da muito trabalho.
 <div>
   <a href="https://taggo.one/nsti.inc">
