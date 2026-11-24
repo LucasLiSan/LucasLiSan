@@ -13,7 +13,7 @@
 
 ## Ⅰ — ORIGIN / Sobre mim
 
-Sou Lucas LiSan, estudante de Desenvolvimento de Software Multiplataforma e desenvolvedor de sistemas. Minha trajetória começou com uma inquietação prática: por que repetir manualmente tarefas no Excel se era possível automatizá-las?
+Sou Lucas, estudante de Desenvolvimento de Software Multiplataforma e desenvolvedor de sistemas. Minha trajetória começou com uma inquietação prática: por que repetir manualmente tarefas no Excel se era possível automatizá-las?
 
 A pergunta evoluiu para outras. Por que limitar a automação a uma planilha? Por que aceitar processos fragmentados? Por que reproduzir digitalmente a burocracia, em vez de repensá-la?
 
